@@ -1,0 +1,20 @@
+
+
+    .green {
+     background-color: green;
+    }
+    .red {
+     background-color: red;
+    }
+    .blue{
+        color: blue ;
+        font-style: italic  ;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    p{
+        color: green;
+    }
+    #bold{
+        font-weight: bold;
+    }
+        
